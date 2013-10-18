@@ -1,5 +1,7 @@
 # chef-varnish
 
+[![Build Status](https://travis-ci.org/dwradcliffe/chef-varnish.png?branch=master)](https://travis-ci.org/dwradcliffe/chef-varnish)
+
 ## Description
 
 Chef cookbook for installing the varnish server.
