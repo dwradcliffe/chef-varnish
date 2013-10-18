@@ -5,4 +5,4 @@
 # Copyright 2013, David Radcliffe
 #
 
-default['varnish']['version'] = "2.1.5-1.el6"
+default['varnish']['version'] = '2.1.5-1.el6'
